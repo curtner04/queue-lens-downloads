@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "QL",
-    "Version":  "1.11.33",
-    "DownloadUrl":  "https://github.com/curtner04/queue-lens-downloads/releases/download/queue-lens-1.11.33-f569f70cdb9470ce/QL-Setup.exe",
-    "SHA256":  "f569f70cdb9470ce832ba436dec4aab0f24a0f1fb081562950cec0f18700d1b8",
-    "Bytes":  32321797
+    "Version":  "1.11.39",
+    "DownloadUrl":  "https://github.com/curtner04/queue-lens-downloads/releases/download/queue-lens-1.11.39-099a5822adec8dde/QL-Setup.exe",
+    "SHA256":  "099a5822adec8dde0ec1b7b3ad693ed59befe57fad1ddae222d98f2f47f1f81d",
+    "Bytes":  32330912
 }
